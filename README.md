@@ -25,9 +25,10 @@ pip install numpy
 
 1. Clone the repository:
 
-   ```bash
-   git clone git@github.com:YourUsername/cot-4500-as3b.git
-   ```
+```bash
+git clone git@github.com:YourUsername/cot-4500-as3b.git
+```
+
 2. Navigate to cot-4500-as3b/src/main
 3. Run
 ```bash
